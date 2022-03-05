@@ -3,4 +3,6 @@ project(exam_rank_03 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(exam_rank_03 micropaint.c)
+add_library(exam_rank_03 micropaint.c)
+
+#add_executable(exam_rank_03 micropaint.c)
