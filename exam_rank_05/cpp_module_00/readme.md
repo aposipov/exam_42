@@ -1,22 +1,21 @@
 Assignment name  : cpp_module_00  
 Expected files   : Warlock.cpp Warlock.hpp
-
   
 ---  
-Make a Warlock class. It has to be in Coplien's form.
+Make a `Warlock` class. It has to be in Coplien's form.
 
 It has the following private attributes :
-* name (string)
-* title (string)
+* `name` (string)
+* `title` (string)
 
 Since they're private, you will write the following getters :
-* getName, returns a reference to constant string
-* getTitle, returns a reference to constant string
+* `getName`, returns a reference to constant string
+* `getTitle`, returns a reference to constant string
 
 Both these functions will have to be callable on a constant Warlock.
 
 Create the following setter: 
-* setTitle, returns void and takes a reference to constant string
+* `setTitle`, returns void and takes a reference to constant string
 
 Your Warlock will also have, in addition to whatever's required by Coplien's
 form, a constructor that takes, in this order, its name and title. Your Warlock
