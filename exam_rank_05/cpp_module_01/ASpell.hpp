@@ -6,7 +6,7 @@ class ATarget;
 
 class ASpell {
 public:
-    ASpell() {} // 
+    ASpell() {} // ??
     ASpell(std::string name, std::string effects) {
         _name = name;
         _effects = effects;    
