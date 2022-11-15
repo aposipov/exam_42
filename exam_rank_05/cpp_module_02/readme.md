@@ -1,5 +1,5 @@
-Assignment name  : cpp_module_02  
-Expected files   : Warlock.cpp Warlock.hpp  
+<b>Assignment name :</b> cpp_module_02  
+<b>Expected files :</b> Warlock.cpp Warlock.hpp  
                    ASpell.hpp ASpell.cpp  
 				   ATarget.hpp ATarget.cpp  
 				   Fwoosh.hpp Fwoosh.cpp  
