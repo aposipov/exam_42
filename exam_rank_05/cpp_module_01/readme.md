@@ -17,7 +17,7 @@ following protected attributes:
 
 Both will have getters (`getName` and `getEffects`) that return strings.
 
-Also add a clone pure method that returns a pointer to ASpell.
+Also add a `clone` pure method that returns a pointer to ASpell.
 
 All these functions can be called on a constant object.
 
@@ -46,7 +46,7 @@ getEffects function.
 Finally, add to your ASpell class a `launch` function that takes a reference to
 constant ATarget.
 
-This one will simply call the getHitBySpell of the passed object, passing the
+This one will simply call the `getHitBySpell` of the passed object, passing the
 current instance as parameter.
 
 When all this is done, create an implementation of `ASpell called Fwoosh`. Its
