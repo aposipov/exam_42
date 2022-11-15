@@ -23,13 +23,14 @@ form, a constructor that takes, in this order, its name and title. Your Warlock
 will not be able to be copied, instantiated by copy, or instantiated without a
 name and a title.
 
-For example :
-
+For example :  
+|   |   |
+|---|---|  
 |Warlock bob; |//Does not compile|  
-|Warlock bob("Bob", "the magnificent");|  //Compiles|  
-Warlock jim("Jim", "the nauseating");   //Compiles  
-bob = jim;                              //Does not compile  
-Warlock jack(jim);                      //Does not compile  
+|Warlock bob("Bob", "the magnificent");|//Compiles| 
+|Warlock jim("Jim", "the nauseating");|//Compiles|  
+|bob = jim;|//Does not compile|  
+|Warlock jack(jim);|//Does not compile|  
 
 Upon creation, the Warlock says :
 
