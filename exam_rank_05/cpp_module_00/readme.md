@@ -73,7 +73,7 @@ int main()
 ```  
 
 ~$ ./a.out | cat -e  
-Richard: This looks like another boring day.$.  
+Richard: This looks like another boring day.$  
 Richard: I am Richard, Mistress of Magma!$  
 Richard - Mistress of Magma$  
 Jack: This looks like another boring day.$  
