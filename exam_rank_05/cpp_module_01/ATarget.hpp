@@ -6,7 +6,6 @@ class ASpell;
 
 class ATarget {
 public:
-    ATarget() {} // 
     ATarget(std::string type) {
         _type = type;  
     }
