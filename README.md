@@ -1,9 +1,8 @@
-# exam_42
+## exam_42
   
-https://freecomputerbooks.com/langCBooks.html   
 
-#### ✅ Exam Rank 02
-
+### ✅ Exam Rank 02
+Passed 10.02.2022
 ### ✅ Exam Rank 03
 
 ### ✅ Exam Rank 04
@@ -13,3 +12,7 @@ Passed 03.11.22
 Most short version  
 Passed 17.11.22
 ### ✅ Exam Rank 06
+
+
+## usefull links
+https://freecomputerbooks.com/langCBooks.html   
