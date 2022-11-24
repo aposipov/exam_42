@@ -13,6 +13,8 @@ Passed 03.11.22
 Most short version  
 Passed 17.11.22
 ### ✅ Exam Rank 06
+mini_serv 165 lines
+Passed 24.11.2022
 
 
 ## usefull links
